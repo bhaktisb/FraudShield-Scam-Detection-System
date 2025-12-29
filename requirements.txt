@@ -1,0 +1,10 @@
+transformers
+torch
+tensorflow
+scikit-learn
+librosa
+flask
+numpy
+joblib
+soundfile
+python-dotenv

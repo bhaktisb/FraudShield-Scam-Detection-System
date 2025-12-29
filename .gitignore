@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Uploads & datasets
+static/uploads/
+*.wav
+*.mp3
+
+# ML / DL models
+*.h5
+*.pkl
+*.pt
+*.bin
+*.safetensors
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyTest
+.pytest_cache/
+
+# OS / IDE
+.vscode/
+.env
